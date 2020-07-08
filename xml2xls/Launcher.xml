@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testcases>
+<testcase internalid="5" name="Launcher:  测试启动项">
+	<node_order><![CDATA[0]]></node_order>
+	<externalid><![CDATA[1]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>launcher测试</p>
+]]></summary>
+	<preconditions><![CDATA[<p>安装最新的测试版本</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[3]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>1. 点击OppoXR启动</p>
+
+<p>2.查看launcher是否正常启动。比如UI是否正常，隐藏按钮是否正常工作，翻页是否正常工作，app能否正常显示等。</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>launcher正常工作</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testcases>

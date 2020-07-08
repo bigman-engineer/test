@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbook>
+    <worksheet title="test">
+        <row><cell>This</cell><cell>is</cell><cell>a TEST</cell></row>
+        <row><cell>Nice, isn't it?</cell></row>
+    </worksheet>
+</workbook>
